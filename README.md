@@ -46,12 +46,6 @@
 
 ## 🎯 Professional Summary
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                     ENTERPRISE-GRADE AI/ML DEVELOPER                    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
 I'm a **dedicated and innovative AI/ML developer** with a passion for architecting **autonomous data science agents**, engineering **advanced NLP solutions**, and deploying **intelligent web applications** that solve real-world problems at enterprise scale.
 
 ### 🚀 What I Do:
@@ -204,48 +198,6 @@ An intelligent autonomous system that handles entire ML pipeline from raw data t
 
 **🏗️ 6-Agent Autonomous Architecture:**
 
-```
-INPUT CSV (up to 100MB)
-    ↓
-┌─────────────────────────────────┐
-│  1️⃣  DATA PARSER AGENT          │  ✅ Validates & normalizes data
-│      🔍 1000+ rows/second       │  ✅ Handles missing values
-│      ✨ Smart type detection    │  ✅ Data quality assessment
-└─────────────────────────────────┘
-    ↓
-┌─────────────────────────────────┐
-│  2️⃣  EDA AGENT                  │  ✅ Statistical summaries
-│      📊 Visualizations galore   │  ✅ Correlation analysis
-│      🎨 Matplotlib + Seaborn    │  ✅ Distribution plots
-└─────────────────────────────────┘
-    ↓
-┌─────────────────────────────────┐
-│  3️⃣  PREPROCESSING AGENT        │  ✅ Feature scaling
-│      🔧 Automated engineering   │  ✅ Encoding categorical vars
-│      🎯 Outlier detection       │  ✅ Train/test splitting
-└─────────────────────────────────┘
-    ↓
-┌─────────────────────────────────┐
-│  4️⃣  MODEL TRAINING AGENT       │  ✅ Trains 17+ algorithms
-│      🚀 Parallel processing     │  ✅ Hyperparameter tuning
-│      💪 AutoML capabilities     │  ✅ Cross-validation
-└─────────────────────────────────┘
-    ↓
-┌─────────────────────────────────┐
-│  5️⃣  EVALUATION AGENT           │  ✅ Performance metrics
-│      📈 ROC, AUC, F1-Score     │  ✅ Model comparison
-│      ⚖️  Bias & fairness checks │  ✅ Error analysis
-└─────────────────────────────────┘
-    ↓
-┌─────────────────────────────────┐
-│  6️⃣  REPORT GENERATION AGENT    │  ✅ Professional docs
-│      📄 Executive summaries     │  ✅ Code snippets
-│      🎁 8 downloadable assets   │  ✅ Deployment guide
-└─────────────────────────────────┘
-    ↓
-OUTPUT: Complete Data Science Report + Models
-```
-
 **📦 8 Downloadable Assets:**
 1. 🧹 **Cleaned Dataset** (CSV) - Preprocessed & ready-to-use data
 2. 📊 **EDA Report** (HTML) - Interactive visualizations & insights
@@ -331,33 +283,6 @@ A browser-integrated AI system that analyzes news in real-time with color-coded 
 | **API Access** | Third-party integration | Enterprise adoption |
 
 **🧠 NLP Model Architecture:**
-
-```
-Input Text
-    ↓
-┌──────────────────────────┐
-│ Preprocessing Layer      │
-│ • Tokenization          │
-│ • Lemmatization         │
-│ • Stop word removal     │
-└──────────────────────────┘
-    ↓
-┌──────────────────────────┐
-│ BERT Transformer        │
-│ • Contextual embeddings │
-│ • Semantic understanding│
-│ • Fine-tuned weights    │
-└──────────────────────────┘
-    ↓
-┌──────────────────────────┐
-│ Classification Head     │
-│ • Dense layers          │
-│ • Dropout regularization│
-│ • Softmax activation    │
-└──────────────────────────┘
-    ↓
-Trust Score (0-100%)
-```
 
 **📱 Supported Platforms:**
 - ✅ X/Twitter
@@ -459,23 +384,6 @@ Deployment: Docker | GitHub Actions | AWS
 - 📊 Stakeholder communication
 - 🌐 Cross-cultural collaboration
 
----
-
-## 💡 Research Interests & Expertise Areas
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    AI/ML EXPERTISE MATRIX                   │
-├─────────────────────────────────────────────────────────────┤
-│ 🤖 Autonomous Agents      │ Multi-agent systems, orchestration
-│ 🧠 NLP & LLMs            │ Fine-tuning, RAG, embeddings
-│ 📊 Data Science          │ EDA, ML pipelines, AutoML
-│ ☁️ Cloud & Deployment    │ Scalability, containerization
-│ 🔬 ML Research           │ Novel architectures, optimization
-│ 💬 Conversational AI     │ Chatbots, dialogue systems
-│ 🏆 Competitive Coding    │ Algorithm design, problem-solving
-└─────────────────────────────────────────────────────────────┘
-```
 
 **Current Focus Areas:**
 1. 🤖 **Building Intelligent Autonomous Agents** - Multi-agent coordination, task delegation
@@ -519,43 +427,6 @@ Deployment: Docker | GitHub Actions | AWS
 ---
 
 ## 🌟 Why Collaborate With Me?
-
-```
-╔════════════════════════════════════════════════════════════╗
-║                  UNIQUE VALUE PROPOSITION                  ║
-╠════════════════════════════════════════════════════════════╣
-║ ✅ Proven Track Record                                    ║
-║    → Top 500 Amazon ML Challenge (20,000+ competitors)   ║
-║    → Intel AI for Manufacturing Certification             ║
-║                                                            ║
-║ ✅ Full-Stack Capabilities                                ║
-║    → From research to production deployment              ║
-║    → End-to-end ML pipelines                             ║
-║    → Enterprise architecture patterns                     ║
-║                                                            ║
-║ ✅ Real-World Impact                                       ║
-║    → 3 production-ready applications                      ║
-║    → 100+ companies data processed                        ║
-║    → 85% NLP accuracy in production                       ║
-║                                                            ║
-║ ✅ Tech Excellence                                         ║
-║    → Python, FastAPI, React mastery                       ║
-║    → Cloud & DevOps expertise                             ║
-║    → Modern ML frameworks & best practices                ║
-║                                                            ║
-║ ✅ Soft Skills                                             ║
-║    → Clear communication & documentation                  ║
-║    → Team collaboration & mentoring                       ║
-║    → Problem-solving mindset                              ║
-║    → Adaptability & rapid learning                        ║
-║                                                            ║
-║ ✅ Passion & Drive                                         ║
-║    → Genuinely excited about AI/ML                        ║
-║    → Continuous learner & innovator                       ║
-║    → Goes beyond requirements                             ║
-╚════════════════════════════════════════════════════════════╝
-```
-
 ---
 
 ## 📞 Let's Connect & Collaborate
